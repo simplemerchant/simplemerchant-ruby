@@ -2,6 +2,8 @@
 
 Official Simple Merchant Ruby Gem
 
+[ ![Codeship Status for simplemerchant/simplemerchant-ruby](https://codeship.com/projects/adc73950-a28a-0133-81e8-4622c1e7ba28/status?branch=master)](https://codeship.com/projects/128937)
+
 ### Important Note. This Gem is currently in development, this repo is currently a placeholder.
 
 ## Installation

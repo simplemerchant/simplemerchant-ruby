@@ -10,7 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ['edward@simple-merchant.com']
 
   spec.summary       = 'A Ruby wrapper for the Simple Merchant API'
-  spec.description   = 'A Ruby wrapper for the Simple Merchant API'
+  spec.description   = 'Ruby wrapper for the Simple Merchant API'
+  spec.licenses      = ['MIT']
   spec.homepage      = 'https://github.com/simplemerchant/simplemerchant-ruby'
 
   spec.files = `git ls-files -z`.split("\x0").reject do |f|
